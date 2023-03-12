@@ -1,0 +1,32 @@
+.variant-input-wrap input[type=radio]:checked+label {
+  background: white;
+  color: black;
+}
+
+label.disabled {
+  display: none;
+}
+
+label.variant__label:before {
+  content: "Select Your";
+}
+
+label.variant__label {
+  font-size: 20px;
+}
+
+.cart__item--qty a {
+  padding: 5px 10px;
+  border: 1px solid;
+  z-index: 1;
+}
+
+.cart__item--qty a:hover {
+  color: black;
+  background: white;
+}
+
+.cart__item--qty {
+  display: flex;
+  gap: 10px;
+}

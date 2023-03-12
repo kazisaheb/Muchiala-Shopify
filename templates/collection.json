@@ -1,0 +1,32 @@
+{
+  "sections": {
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "collection_subnav_style": "inline",
+            "per_row": 4,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "settings": {
+        "collection_image_enable": true,
+        "collection_image_height": 450,
+        "parallax": true,
+        "enable_sidebar": true,
+        "collapsed": true,
+        "enable_color_swatches": true,
+        "enable_sort": true
+      }
+    }
+  },
+  "order": [
+    "main-collection"
+  ]
+}

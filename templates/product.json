@@ -1,0 +1,277 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "judgeme_preview_badge_product_page_4ad2139a": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": false,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "0169cf4e-7ef6-4d7e-a6b3-8cc157e2708f": {
+          "type": "size_chart",
+          "settings": {
+            "size_chart": "size-chart"
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "truck",
+            "text": "Get Free Shipping Worldwide"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "058aa4f0-9999-4546-8e5a-c39a8bc1053c": {
+          "type": "tab",
+          "settings": {
+            "title": "FREE SHIPPING",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": "shipping-time"
+          }
+        },
+        "70bb913d-b277-4828-9459-199a09a21621": {
+          "type": "tab",
+          "settings": {
+            "title": "FREE SIZE EXCHANGE",
+            "content": "<p>Write something about this store's free size exchange or no-cost size exchange<\/p><p>Write something about this store's free size exchange or no-cost size exchange<\/p>",
+            "page": "free-shipping-free-size-exchange"
+          }
+        },
+        "32168ace-f2a6-4d12-8c1e-6d3ece4404f4": {
+          "type": "tab",
+          "settings": {
+            "title": "Free from Animal Cruelty",
+            "content": "<p>We can guaranteed that We do not use any of the following fur materials:<br\/><br\/>Animal fur - this includes farmed fur as well as fur that may be a product of the meat industry.<br\/>Threatened Species – Includes all endangered species listed under the Convention on International Trade in Endangered Species of Wild Fauna and Flora or the IUCN.<br\/>Leather or skin products from foreign and wild hunted animals – including the skin of alligators, crocodiles, lizards, snakes and reptiles. since we are supervised by the government organization to ensure materials used comes from responsibly.<\/p>",
+            "page": "cruelty-free-fashion-no-fur-or-skin-from-animals-endangered-species"
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "ECO- FRIENDLY PRODUCTION",
+            "content": "<p>\"Eco-friendly shoes are the future, using recycled materials and biodegradable soles to reduce waste and preserve resources while prioritizing style and comfort with a positive impact on the planet.\"<\/p>",
+            "page": "eco-friendly-production"
+          }
+        },
+        "6a896bab-bd98-4ec4-b3a7-b55d3046e90e": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p><strong>Hello there!!!<\/strong><\/p><p><br\/>We are thrilled to inform you that we are a \"made to order\" business which means we don't start producing any of your products until you place your order. This process ensures that every product is crafted with precision and care just for you. This approach helps us keep our costs low and the quality of our products high. Please kindly allow us up to 8 business days to process your order and send you a tracking number. Once your item is shipped, our shipping partners promise a delivery time frame of 8 to 20 business days, depending on your location.<\/p><p> <\/p><p>*<strong>EMS Countries Delivery Time Estimates:<\/strong> 8-20 Business Days (EMS With Destination Tracking).<\/p><p>*EMS Countries' shoe orders that have not arrived within 25 Business Days of order processing are eligible for Refunds or Free Reshipment.<\/p><p> <\/p><p><strong>*List of countries that have EMS delivery with destination tracking available:<\/strong><\/p><p>United States, Australia, Canada, France, United Kingdom, Israel, Germany, Austria, Belgium, Brazil, Switzerland, Denmark, Spain, Finland, Greece, Hungary, Ireland, Italy, Japan, Korea (South), Luxembourg, Mexico, Myanmar, Netherlands, Norway, New Zealand, Poland,  Portugal, Russian Federation, Sweden, Singapore, Turkey, Ukraine.<br\/><br\/><\/p><p><strong>*Other International Delivery Time Estimates<\/strong>: 10-24 Business Days.<\/p><p>*Other International shoe orders that have not arrived within 35 Business Days of order processing are eligible for Refunds or Free Reshipment.<br\/><br\/><\/p><p>If you have any questions or concerns, please don't hesitate to reach out to us. We are always here to help and make your shopping experience with us a memorable one.<\/p><p><br\/><br\/><strong>Thank you for allowing us to be a part of your beautiful memory.<\/strong><\/p><p><br\/><br\/><\/p><p> <\/p>",
+            "page": "shipping-time"
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "judgeme_preview_badge_product_page_4ad2139a",
+        "separator",
+        "variant_picker",
+        "0169cf4e-7ef6-4d7e-a6b3-8cc157e2708f",
+        "sales_point",
+        "inventory_status",
+        "buy_buttons",
+        "description",
+        "058aa4f0-9999-4546-8e5a-c39a8bc1053c",
+        "70bb913d-b277-4828-9459-199a09a21621",
+        "32168ace-f2a6-4d12-8c1e-6d3ece4404f4",
+        "tab",
+        "6a896bab-bd98-4ec4-b3a7-b55d3046e90e"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "judgeme_section_review_widget_28d8": {
+      "type": "apps",
+      "blocks": {
+        "judgeme_review_widget_a59477f5": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judgeme_review_widget_a59477f5"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "1fb6209c-627a-4f8c-90c2-2a8a4f28d2e7": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--17359129182472__1fb6209c-627a-4f8c-90c2-2a8a4f28d2e7-1675924167878ee87b-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "truck",
+            "title": "Free Shipping",
+            "text": ""
+          }
+        },
+        "template--17359129182472__1fb6209c-627a-4f8c-90c2-2a8a4f28d2e7-1675924167878ee87b-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "recycle",
+            "title": "Free Size Exchange",
+            "text": ""
+          }
+        },
+        "template--17359129182472__1fb6209c-627a-4f8c-90c2-2a8a4f28d2e7-1675924167878ee87b-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "Eco- Friendly Production",
+            "text": ""
+          }
+        },
+        "bcd1ffc8-fe7c-4168-8c63-34ca5c8e2c96": {
+          "type": "text_block",
+          "settings": {
+            "icon": "charity",
+            "title": "Animal Cruelty Free",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17359129182472__1fb6209c-627a-4f8c-90c2-2a8a4f28d2e7-1675924167878ee87b-0",
+        "template--17359129182472__1fb6209c-627a-4f8c-90c2-2a8a4f28d2e7-1675924167878ee87b-2",
+        "template--17359129182472__1fb6209c-627a-4f8c-90c2-2a8a4f28d2e7-1675924167878ee87b-1",
+        "bcd1ffc8-fe7c-4168-8c63-34ca5c8e2c96"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#3b9503",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "disabled": true,
+      "blocks": {
+        "testimonials-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "testimonials-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "testimonials-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "testimonials-0",
+        "testimonials-1",
+        "testimonials-2"
+      ],
+      "settings": {
+        "title": "Don't take our word for it",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    },
+    "loox-product-reviews-app-section": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "judgeme_section_review_widget_28d8",
+    "1fb6209c-627a-4f8c-90c2-2a8a4f28d2e7",
+    "sub",
+    "testimonials",
+    "product-recommendations",
+    "collection-return",
+    "loox-product-reviews-app-section"
+  ]
+}

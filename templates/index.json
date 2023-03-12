@@ -1,0 +1,147 @@
+{
+  "sections": {
+    "bb7cc639-02f2-42c4-9e21-a82b8681ab21": {
+      "type": "slideshow",
+      "blocks": {
+        "template--17359128494344__bb7cc639-02f2-42c4-9e21-a82b8681ab21-1675848939b4ebe128-1": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 54,
+            "subheading": "",
+            "link": "shopify:\/\/pages\/cruelty-free-fashion-no-fur-or-skin-from-animals-endangered-species",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/muchiala_web_banner_1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/muchiala_web_banner_1.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17359128494344__bb7cc639-02f2-42c4-9e21-a82b8681ab21-1675848939b4ebe128-1"
+      ],
+      "settings": {
+        "section_height": "100vh",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "dots",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "6e59465d-06f4-4614-9cce-671aa33654f4": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--17359128494344__6e59465d-06f4-4614-9cce-671aa33654f4-16759614159a4b0d49-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "low-top-sneakers",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "template--17359128494344__6e59465d-06f4-4614-9cce-671aa33654f4-16759614159a4b0d49-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "high-top-sneakers",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        }
+      },
+      "block_order": [
+        "template--17359128494344__6e59465d-06f4-4614-9cce-671aa33654f4-16759614159a4b0d49-0",
+        "template--17359128494344__6e59465d-06f4-4614-9cce-671aa33654f4-16759614159a4b0d49-3"
+      ],
+      "settings": {
+        "title": "",
+        "divider": false,
+        "enable_gutter": false
+      }
+    },
+    "509b9a33-75d8-4151-88ef-78f485a1bdc8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Recommended for You",
+        "home_featured_products": "recommended",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "5114c8d1-e1b5-47a8-aa85-98d96eb9bb85": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/06-90720666-flower-power-cole-haans-new-shoes.webp",
+        "image2": "shopify:\/\/shop_images\/ab43236b-222a-41e5-8266-9a9a4b771bbc.webp",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Eco-Friendly Production:",
+        "text": "<p>\"Eco-friendly shoes are the future, using recycled materials and biodegradable soles to reduce waste and preserve resources while prioritizing style and comfort with a positive impact on the planet.\"<\/p>",
+        "button_label": "Know More",
+        "button_link": "shopify:\/\/pages\/eco-friendly-production",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "04cf2a36-52b1-4596-bbdc-6239d65c3ece": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/06-90720666-flower-power-cole-haans-new-shoes.webp",
+        "image2": "shopify:\/\/shop_images\/ab43236b-222a-41e5-8266-9a9a4b771bbc.webp",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "ANIMAL CRUELTY-FREE",
+        "text": "<p><strong>Cruelty-Free Fashion: No Fur or Skin from Animals & Endangered Species<\/strong><\/p><p>We do not use any of the following fur materials:<br\/>Animal fur - this includes farmed fur as well as fur that may be a product of the meat industry.<\/p>",
+        "button_label": "Know More",
+        "button_link": "shopify:\/\/pages\/cruelty-free-fashion-no-fur-or-skin-from-animals-endangered-species",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "873dc257-19c4-4dca-887e-cc0cf5399949": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "New Arrivials",
+        "home_featured_products": "new-arrivals",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "1f4f8615-4940-4e33-b536-b090f09b8f55": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/06-90720666-flower-power-cole-haans-new-shoes.webp",
+        "image2": "shopify:\/\/shop_images\/ab43236b-222a-41e5-8266-9a9a4b771bbc.webp",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Free Shipping & Free SIZE EXCHANGE",
+        "text": "<p>Write something about this store's free size exchange or no-cost size exchange.<\/p>",
+        "button_label": "Know More",
+        "button_link": "shopify:\/\/pages\/free-shipping-free-size-exchange",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "bb7cc639-02f2-42c4-9e21-a82b8681ab21",
+    "6e59465d-06f4-4614-9cce-671aa33654f4",
+    "509b9a33-75d8-4151-88ef-78f485a1bdc8",
+    "5114c8d1-e1b5-47a8-aa85-98d96eb9bb85",
+    "04cf2a36-52b1-4596-bbdc-6239d65c3ece",
+    "873dc257-19c4-4dca-887e-cc0cf5399949",
+    "1f4f8615-4940-4e33-b536-b090f09b8f55"
+  ]
+}
